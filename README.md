@@ -5,4 +5,5 @@ Agora incluirmos algumas melhorias.
 
 Henrique Gama
 Eluney Ema Suazo
-
+Oriana Avril Carrasco
+Victória Araújo Alexandre
